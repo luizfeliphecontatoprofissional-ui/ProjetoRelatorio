@@ -6,3 +6,6 @@ __pycache__/
 relatorios_gerados/
 *.xlsx
 *.csv
+.ideia/
+.vscode/
+venv/
