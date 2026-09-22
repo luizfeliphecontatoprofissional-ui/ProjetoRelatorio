@@ -10,3 +10,7 @@ relatorios_gerados/
 .vscode/
 venv/
 ideia/
+config.json/
+gerador.log/
+gerador.log
+config.json
