@@ -9,13 +9,11 @@ from tkinter import filedialog, messagebox, ttk
 from docx import Document
 import pandas as pd
 
-# Resolução de Caminhos do Executável
 if getattr(sys, "frozen", False):
   PASTA_BASE = os.path.dirname(sys.executable)
 else:
   PASTA_BASE = os.path.dirname(os.path.abspath(__file__))
 
-# Configuração de Logs
 LOG_FILE = os.path.join(PASTA_BASE, "gerador.log")
 logging.basicConfig(
     filename=LOG_FILE,
@@ -24,7 +22,6 @@ logging.basicConfig(
     encoding="utf-8",
 )
 
-# Gerenciamento de Configurações (config.json)
 CONFIG_FILE = os.path.join(PASTA_BASE, "config.json")
 
 
@@ -53,23 +50,20 @@ def salvar_config(config_dict):
     logging.error(f"Erro ao salvar config.json: {e}")
 
 
-# Conversão em PDF Sem Bibliotecas Externas (Via PowerShell + MS Word Nativo)
 def converter_para_pdf(caminho_docx):
   try:
     caminho_docx_abs = os.path.abspath(caminho_docx).replace("\\", "/")
     caminho_pdf_abs = caminho_docx_abs.replace(".docx", ".pdf")
 
-    # Comando executado pelo PowerShell silenciosamente
     ps_cmd = (
         f'$word = New-Object -ComObject Word.Application; '
         f'$word.Visible = $False; '
         f'$doc = $word.Documents.Open("{caminho_docx_abs}"); '
-        f'$doc.SaveAs("{caminho_pdf_abs}", 17); '  # 17 = Formato wdFormatPDF
+        f'$doc.SaveAs("{caminho_pdf_abs}", 17); '
         f'$doc.Close(); '
         f'$word.Quit()'
     )
 
-    # 0x08000000 oculta a janela preta do terminal durante o processo
     subprocess.run(
         ["powershell", "-Command", ps_cmd], check=True, creationflags=0x08000000
     )
@@ -80,7 +74,6 @@ def converter_para_pdf(caminho_docx):
     return False
 
 
-# Motor de Criação do Word
 def criar_documento_word(
     titulo,
     autor,
@@ -95,7 +88,6 @@ def criar_documento_word(
     pasta_destino = os.path.join(PASTA_BASE, "relatorios_gerados")
   os.makedirs(pasta_destino, exist_ok=True)
 
-  # Carregamento de Template ou Documento em Branco
   if template_path and os.path.exists(template_path):
     try:
       doc = Document(template_path)
@@ -194,7 +186,6 @@ def criar_documento_consolidado(
   return caminho
 
 
-# Lógica da Interface Gráfica
 def importar_e_processar():
   caminho_arquivo = filedialog.askopenfilename(
       title="Selecione a planilha",
@@ -367,10 +358,8 @@ def remover_item():
     lista_itens.delete(selecao)
 
 
-# Carregar Configurações Globais
 config = carregar_config()
 
-# Configuração da Janela Principal
 janela = tk.Tk()
 janela.title("Gerador de Relatórios Word - V5.0 Pro")
 janela.geometry("580x820")
@@ -382,7 +371,6 @@ x = (janela.winfo_screenwidth() // 2) - (580 // 2)
 y = (janela.winfo_screenheight() // 2) - (820 // 2)
 janela.geometry(f"+{x}+{y}")
 
-# Estilos Visuais
 BG_DARK = "#1e1e1e"
 BG_FIELD = "#2d2d2d"
 FG_WHITE = "#ffffff"
@@ -409,7 +397,6 @@ tk.Label(
     pady=10,
 ).pack()
 
-# --- PAINEL DE CONFIGURAÇÕES RÁPIDAS ---
 frame_config = tk.Frame(janela, bg="#252526", bd=1, relief="solid")
 frame_config.pack(padx=20, fill="x", pady=5)
 
@@ -489,7 +476,6 @@ chk_pdf = tk.Checkbutton(
 )
 chk_pdf.pack(anchor="w", padx=10, pady=5)
 
-# --- BOTÃO IMPORTAR PLANILHA ---
 btn_importar = tk.Button(
     janela,
     text="Importar Planilha Excel/CSV",
@@ -508,7 +494,6 @@ tk.Label(
     janela, text="──────── OU FORMULÁRIO MANUAL ────────", bg=BG_DARK, fg="#666666"
 ).pack(pady=5)
 
-# --- FORMULÁRIO MANUAL ---
 frame_form = tk.Frame(janela, bg=BG_DARK)
 frame_form.pack(padx=25, fill="x")
 
