@@ -64,7 +64,7 @@ A tabela abaixo resume a evolução do projeto ao longo do desenvolvimento:
 
 ---
 
-### 🔹 Versão 4.0 (Atual) — Redesign Dark Mode e Integração `python-docx`
+### 🔹 Versão 4.0 — Redesign Dark Mode e Integração `python-docx`
 * 💡 *Melhorias em relação à V3:*
   * **Refatoração do Motor do Word:** Substituição da montagem manual em XML pela biblioteca oficial `python-docx`, garantindo maior estabilidade, formatação limpa e redução de erros de compatibilidade.
   * **Interface Dark Mode:** Redesign completo da interface com uma paleta escura(Dark Mode), fontes personalizadas e botões estilizados.
@@ -103,7 +103,7 @@ pip install python-docx pandas openpyxl
 ```
 ---
 
-4. ### **Executar a Aplicação(Versão Atual)**
+4. ### **Executar a Aplicação**
 
 ```bash
 python ProjetoRelatorioV4.py
