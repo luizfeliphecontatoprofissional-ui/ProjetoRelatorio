@@ -1,0 +1,222 @@
+2026-09-21 12:46:19,858 - [INFO] - Configurações salvas no config.json.
+2026-09-21 12:46:20,466 - [INFO] - Configurações salvas no config.json.
+2026-09-21 12:46:29,273 - [INFO] - Configurações salvas no config.json.
+2026-09-21 12:46:30,114 - [INFO] - Configurações salvas no config.json.
+2026-09-21 12:46:37,098 - [INFO] - Configurações salvas no config.json.
+2026-09-21 12:46:37,306 - [INFO] - Configurações salvas no config.json.
+2026-09-21 12:46:37,466 - [INFO] - Configurações salvas no config.json.
+2026-09-21 12:46:39,946 - [INFO] - Configurações salvas no config.json.
+2026-09-21 12:46:40,187 - [INFO] - Configurações salvas no config.json.
+2026-09-21 12:46:41,122 - [INFO] - Configurações salvas no config.json.
+2026-09-21 12:46:41,594 - [INFO] - Configurações salvas no config.json.
+2026-09-21 12:46:42,514 - [INFO] - Configurações salvas no config.json.
+2026-09-21 12:46:46,412 - [INFO] - Iniciando importação de planilha: X:/dg-daf-ci/Estagiários/Ensino Superior/Trabalhos Descrições/planilha_teste_extensa.xlsx
+2026-09-21 12:46:48,548 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_1_(2).docx
+2026-09-21 12:46:53,827 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_1_(2).pdf
+2026-09-21 12:46:53,853 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_2_(2).docx
+2026-09-21 12:46:57,864 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_2_(2).pdf
+2026-09-21 12:46:57,887 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_3_(2).docx
+2026-09-21 12:47:02,049 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_3_(2).pdf
+2026-09-21 12:47:02,102 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_4_(2).docx
+2026-09-21 12:47:06,816 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_4_(2).pdf
+2026-09-21 12:47:06,842 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_5_(2).docx
+2026-09-21 12:47:10,539 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_5_(2).pdf
+2026-09-21 12:47:10,563 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_6_(2).docx
+2026-09-21 12:47:14,547 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_6_(2).pdf
+2026-09-21 12:47:14,570 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_7_(2).docx
+2026-09-21 12:47:20,469 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_7_(2).pdf
+2026-09-21 12:47:20,501 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_8_(2).docx
+2026-09-21 12:47:24,903 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_8_(2).pdf
+2026-09-21 12:47:24,947 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_9_(2).docx
+2026-09-21 12:47:29,109 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_9_(2).pdf
+2026-09-21 12:47:29,124 - [ERROR] - Erro no processamento em lote: invalid command name ".!progressbar"
+2026-09-21 12:47:33,681 - [INFO] - Configurações carregadas com sucesso.
+2026-09-21 12:47:38,474 - [INFO] - Iniciando importação de planilha: X:/dg-daf-ci/Estagiários/Ensino Superior/Trabalhos Descrições/Planilha Teste 01.xlsx
+2026-09-21 12:47:40,482 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_1_(3).docx
+2026-09-21 12:47:44,204 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_1_(3).pdf
+2026-09-21 12:47:44,228 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_2_(3).docx
+2026-09-21 12:47:47,948 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_2_(3).pdf
+2026-09-21 12:47:47,972 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_3_(3).docx
+2026-09-21 12:47:51,674 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_3_(3).pdf
+2026-09-21 12:47:51,697 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_4_(3).docx
+2026-09-21 12:47:56,481 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_4_(3).pdf
+2026-09-21 12:47:56,504 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_5_(3).docx
+2026-09-21 12:48:00,509 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_5_(3).pdf
+2026-09-21 12:48:00,537 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_6_(3).docx
+2026-09-21 12:48:04,796 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_6_(3).pdf
+2026-09-21 12:48:04,820 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_7_(3).docx
+2026-09-21 12:48:09,134 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_7_(3).pdf
+2026-09-21 12:48:09,181 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_8_(3).docx
+2026-09-21 12:48:13,687 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_8_(3).pdf
+2026-09-21 12:48:13,714 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_9_(3).docx
+2026-09-21 12:48:19,524 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_9_(3).pdf
+2026-09-21 12:48:19,564 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_10_(2).docx
+2026-09-21 12:48:24,322 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_10_(2).pdf
+2026-09-21 12:48:24,354 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_11_(2).docx
+2026-09-21 12:48:28,394 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_11_(2).pdf
+2026-09-21 12:48:28,416 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_12_(2).docx
+2026-09-21 12:48:32,364 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_12_(2).pdf
+2026-09-21 12:48:32,388 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_13_(2).docx
+2026-09-21 12:48:36,091 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_13_(2).pdf
+2026-09-21 12:48:36,114 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_14_(2).docx
+2026-09-21 12:48:40,110 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_14_(2).pdf
+2026-09-21 12:48:40,318 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_15_(2).docx
+2026-09-21 12:48:44,754 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_15_(2).pdf
+2026-09-21 12:48:44,777 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_16_(2).docx
+2026-09-21 12:48:48,736 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_16_(2).pdf
+2026-09-21 12:48:48,758 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_17_(2).docx
+2026-09-21 12:48:52,757 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_17_(2).pdf
+2026-09-21 12:48:52,780 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_18_(2).docx
+2026-09-21 12:48:57,647 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_18_(2).pdf
+2026-09-21 12:48:57,669 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_19_(2).docx
+2026-09-21 12:49:01,414 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_19_(2).pdf
+2026-09-21 12:49:01,438 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_20_(2).docx
+2026-09-21 12:49:05,440 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_20_(2).pdf
+2026-09-21 12:49:05,462 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_21_(2).docx
+2026-09-21 12:49:09,982 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_21_(2).pdf
+2026-09-21 12:49:10,007 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_22_(2).docx
+2026-09-21 12:49:14,774 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_22_(2).pdf
+2026-09-21 12:49:14,796 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_23_(2).docx
+2026-09-21 12:49:18,543 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_23_(2).pdf
+2026-09-21 12:49:18,565 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_24_(2).docx
+2026-09-21 12:49:22,291 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_24_(2).pdf
+2026-09-21 12:49:22,314 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_25_(2).docx
+2026-09-21 12:49:27,261 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_25_(2).pdf
+2026-09-21 12:49:27,284 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_26_(2).docx
+2026-09-21 12:49:31,028 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_26_(2).pdf
+2026-09-21 12:49:31,050 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_27_(2).docx
+2026-09-21 12:49:35,301 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_27_(2).pdf
+2026-09-21 12:49:35,323 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_28_(2).docx
+2026-09-21 12:49:39,026 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_28_(2).pdf
+2026-09-21 12:49:39,050 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_29_(2).docx
+2026-09-21 12:49:43,159 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_29_(2).pdf
+2026-09-21 12:49:43,183 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_30_(2).docx
+2026-09-21 12:49:46,939 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_30_(2).pdf
+2026-09-21 12:49:46,961 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_31_(2).docx
+2026-09-21 12:49:50,676 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_31_(2).pdf
+2026-09-21 12:49:50,699 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_32_(2).docx
+2026-09-21 12:49:54,421 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_32_(2).pdf
+2026-09-21 12:49:54,445 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_33_(2).docx
+2026-09-21 12:49:58,812 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_33_(2).pdf
+2026-09-21 12:49:58,884 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_34_(2).docx
+2026-09-21 12:50:02,648 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_34_(2).pdf
+2026-09-21 12:50:02,671 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_35_(2).docx
+2026-09-21 12:50:06,885 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_35_(2).pdf
+2026-09-21 12:50:06,907 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_36_(2).docx
+2026-09-21 12:50:10,859 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_36_(2).pdf
+2026-09-21 12:50:10,881 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_37_(2).docx
+2026-09-21 12:50:15,598 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_37_(2).pdf
+2026-09-21 12:50:15,621 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_38_(2).docx
+2026-09-21 12:50:20,386 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_38_(2).pdf
+2026-09-21 12:50:20,410 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_39_(2).docx
+2026-09-21 12:50:24,077 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_39_(2).pdf
+2026-09-21 12:50:24,100 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_40_(2).docx
+2026-09-21 12:50:29,314 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_40_(2).pdf
+2026-09-21 12:50:29,347 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_41_(2).docx
+2026-09-21 12:50:33,141 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_41_(2).pdf
+2026-09-21 12:50:33,164 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_42_(2).docx
+2026-09-21 12:50:36,877 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_42_(2).pdf
+2026-09-21 12:50:36,900 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_43_(2).docx
+2026-09-21 12:50:41,353 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_43_(2).pdf
+2026-09-21 12:50:41,376 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_44_(2).docx
+2026-09-21 12:50:45,586 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_44_(2).pdf
+2026-09-21 12:50:45,609 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_45_(2).docx
+2026-09-21 12:50:50,576 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_45_(2).pdf
+2026-09-21 12:50:50,599 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_46_(2).docx
+2026-09-21 12:50:54,251 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_46_(2).pdf
+2026-09-21 12:50:54,275 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_47_(2).docx
+2026-09-21 12:50:59,011 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_47_(2).pdf
+2026-09-21 12:50:59,035 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_48_(2).docx
+2026-09-21 12:51:03,154 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_48_(2).pdf
+2026-09-21 12:51:03,192 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_49_(2).docx
+2026-09-21 12:51:07,861 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_49_(2).pdf
+2026-09-21 12:51:07,884 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_50_(2).docx
+2026-09-21 12:51:11,625 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_50_(2).pdf
+2026-09-21 12:51:11,650 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_51_(2).docx
+2026-09-21 12:51:16,391 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_51_(2).pdf
+2026-09-21 12:51:16,414 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_52_(2).docx
+2026-09-21 12:51:21,412 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_52_(2).pdf
+2026-09-21 12:51:21,484 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_53_(2).docx
+2026-09-21 12:51:25,513 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_53_(2).pdf
+2026-09-21 12:51:25,535 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_54_(2).docx
+2026-09-21 12:51:29,755 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_54_(2).pdf
+2026-09-21 12:51:29,778 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_55_(2).docx
+2026-09-21 12:51:33,527 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_55_(2).pdf
+2026-09-21 12:51:33,550 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_56_(2).docx
+2026-09-21 12:51:38,027 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_56_(2).pdf
+2026-09-21 12:51:38,082 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_57_(2).docx
+2026-09-21 12:51:43,480 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_57_(2).pdf
+2026-09-21 12:51:43,503 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_58_(2).docx
+2026-09-21 12:51:47,243 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_58_(2).pdf
+2026-09-21 12:51:47,266 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_59_(2).docx
+2026-09-21 12:51:51,491 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_59_(2).pdf
+2026-09-21 12:51:51,513 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_60_(2).docx
+2026-09-21 12:51:55,785 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_60_(2).pdf
+2026-09-21 12:51:55,807 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_61_(2).docx
+2026-09-21 12:52:00,326 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_61_(2).pdf
+2026-09-21 12:52:00,348 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_62_(2).docx
+2026-09-21 12:52:05,335 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_62_(2).pdf
+2026-09-21 12:52:05,358 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_63_(2).docx
+2026-09-21 12:52:10,542 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_63_(2).pdf
+2026-09-21 12:52:10,564 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_64_(2).docx
+2026-09-21 12:52:15,545 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_64_(2).pdf
+2026-09-21 12:52:15,569 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_65_(2).docx
+2026-09-21 12:52:20,305 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_65_(2).pdf
+2026-09-21 12:52:20,328 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_66_(2).docx
+2026-09-21 12:52:25,519 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_66_(2).pdf
+2026-09-21 12:52:25,544 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_67_(2).docx
+2026-09-21 12:52:30,290 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_67_(2).pdf
+2026-09-21 12:52:30,313 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_68_(2).docx
+2026-09-21 12:52:35,333 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_68_(2).pdf
+2026-09-21 12:52:35,356 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_69_(2).docx
+2026-09-21 12:52:41,311 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_69_(2).pdf
+2026-09-21 12:52:41,333 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_70_(2).docx
+2026-09-21 12:52:46,310 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_70_(2).pdf
+2026-09-21 12:52:46,340 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_71_(2).docx
+2026-09-21 12:52:50,781 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_71_(2).pdf
+2026-09-21 12:52:50,863 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_72_(2).docx
+2026-09-21 12:52:55,445 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_72_(2).pdf
+2026-09-21 12:52:55,467 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_73_(2).docx
+2026-09-21 12:53:00,194 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_73_(2).pdf
+2026-09-21 12:53:00,217 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_74_(2).docx
+2026-09-21 12:53:05,518 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_74_(2).pdf
+2026-09-21 12:53:05,542 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_75_(2).docx
+2026-09-21 12:53:09,268 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_75_(2).pdf
+2026-09-21 12:53:09,293 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_76_(2).docx
+2026-09-21 12:53:13,791 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_76_(2).pdf
+2026-09-21 12:53:13,814 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_77_(2).docx
+2026-09-21 12:53:17,784 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_77_(2).pdf
+2026-09-21 12:53:17,807 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_78_(2).docx
+2026-09-21 12:53:21,538 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_78_(2).pdf
+2026-09-21 12:53:21,561 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_79_(2).docx
+2026-09-21 12:53:26,612 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_79_(2).pdf
+2026-09-21 12:53:26,634 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_80_(2).docx
+2026-09-21 12:53:30,349 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_80_(2).pdf
+2026-09-21 12:53:30,372 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_81_(2).docx
+2026-09-21 12:53:34,379 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_81_(2).pdf
+2026-09-21 12:53:34,402 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_82_(2).docx
+2026-09-21 12:53:38,376 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_82_(2).pdf
+2026-09-21 12:53:38,398 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_83_(2).docx
+2026-09-21 12:53:42,174 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_83_(2).pdf
+2026-09-21 12:53:42,198 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_84_(2).docx
+2026-09-21 12:53:46,229 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_84_(2).pdf
+2026-09-21 12:53:46,252 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_85_(2).docx
+2026-09-21 12:53:50,200 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_85_(2).pdf
+2026-09-21 12:53:50,225 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_86_(2).docx
+2026-09-21 12:53:54,006 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_86_(2).pdf
+2026-09-21 12:53:54,029 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_87_(2).docx
+2026-09-21 12:53:59,343 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_87_(2).pdf
+2026-09-21 12:53:59,365 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_88_(2).docx
+2026-09-21 12:54:03,084 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_88_(2).pdf
+2026-09-21 12:54:03,107 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_89_(2).docx
+2026-09-21 12:54:06,794 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_89_(2).pdf
+2026-09-21 12:54:06,817 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_90_(2).docx
+2026-09-21 12:54:11,577 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_90_(2).pdf
+2026-09-21 12:54:11,649 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_91_(2).docx
+2026-09-21 12:54:15,385 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_91_(2).pdf
+2026-09-21 12:54:15,408 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_92_(2).docx
+2026-09-21 12:54:19,327 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_92_(2).pdf
+2026-09-21 12:54:19,350 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_93_(2).docx
+2026-09-21 12:54:23,822 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_93_(2).pdf
+2026-09-21 12:54:23,845 - [INFO] - Relatório Word salvo: C:\Users\luizfeliphe\PycharmProjects\WelcomeScreen\relatorios_gerados\relatorio_linha_94_(2).docx
+2026-09-21 12:54:27,626 - [INFO] - PDF gerado com sucesso via PowerShell: C:/Users/luizfeliphe/PycharmProjects/WelcomeScreen/relatorios_gerados/relatorio_linha_94_(2).pdf
